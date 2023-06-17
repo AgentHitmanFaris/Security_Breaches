@@ -7,5 +7,8 @@ During the past decades we see a huge improvment in technology, this advancement
 This project mainly focused on how the system works and the way to get through the wall. Also, can be use to gather information to strengthen the security of the system
 
 ## Updates
+June 2023
+>JWT(JSON Web Token)
+
 July 2022
 >Adding the simple NFC/RFID system workflow 
