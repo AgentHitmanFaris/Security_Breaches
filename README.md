@@ -7,6 +7,11 @@ During the past decades we see a huge improvment in technology, this advancement
 This project mainly focused on how the system works and the way to get through the wall. Also, can be use to gather information to strengthen the security of the system
 
 ## Updates
+January 2024
+>Server POST Data Exploit
+```
+Fully funtionnaly apps relese soon for specific targeted websites
+```
 June 2023
 >JWT(JSON Web Token)
 
