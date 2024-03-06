@@ -10,7 +10,7 @@ This project mainly focused on how the system works and the way to get through t
 January 2024
 >Server POST Data Exploit
 ```
-Fully funtionnaly apps relese soon for specific targeted websites
+Fully funtionnaly apps release soon for specific targeted websites
 ```
 June 2023
 >JWT(JSON Web Token)
